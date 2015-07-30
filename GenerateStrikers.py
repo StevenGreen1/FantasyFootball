@@ -7,6 +7,8 @@ import math
 
 strikersList = [] 
 
+print 'Git testing'
+
 strikersList.append(10)
 strikersList.append(8)
 strikersList.append(7)
